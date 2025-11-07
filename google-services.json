@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "128165556877",
+    "project_id": "solowork-48823",
+    "storage_bucket": "solowork-48823.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128165556877:android:e8fa37dbb0b1199f5fa8c4",
+        "android_client_info": {
+          "package_name": "com.opsc.solowork_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128165556877-r8lb4jrrdv5pr3r888096aneuspaluou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opsc.solowork_1",
+            "certificate_hash": "8660eb4db44616b0b4ccaf66ea130d25bcbe3f75"
+          }
+        },
+        {
+          "client_id": "128165556877-vqid7jtq6g93mc5bg1s76l0njk532nic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opsc.solowork_1",
+            "certificate_hash": "f8c50fec5c5a2354e50af4471bd4d916e76be0d1"
+          }
+        },
+        {
+          "client_id": "128165556877-e8q1u3qbr7moeef3u0m0cejgbum7ges0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0W8ccIAT17Yj1K3q3GF6zuNtFncQ043s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128165556877-e8q1u3qbr7moeef3u0m0cejgbum7ges0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
