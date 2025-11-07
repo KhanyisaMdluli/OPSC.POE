@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I-App yami</string>
+    <string name="hello_world">Sawubona Mhlaba!</string>
+
+    <!-- New strings for FocusModeActivity -->
+    <string name="minutes_format">%d imizuzu</string>
+    <string name="stop_timer_first">Yeka isikhathi-sikhathi kuqala ukuze ushintshe isikhathi</string>
+    <string name="set_timer_duration_first">Sicela usethe isikhathi-sikhandi kuqala</string>
+    <string name="focus_session_active">Iseshoni Yokugxila Iyasebenza</string>
+    <string name="timer_paused">Isikhathi-sikhathi Simisiwe</string>
+    <string name="ready_to_focus">Ilungele Ukugxila</string>
+    <string name="focus_session_completed">Iseshoni Yokugxila Iphelele!</string>
+    <string name="focus_session_completed_message">Iseshoni yokugxila iphelele! Umsebenzi omuhle! 🎉</string>
+    <string name="pause">Misa</string>
+    <string name="start">Qala</string>
+    <string name="set_custom_focus_time">Setha Isikhathi Sokugxila Esijwayelekile</string>
+    <string name="set">Setha</string>
+    <string name="cancel">Khansela</string>
+    <string name="please_enter_valid_time">Sicela ufake isikhathi esivumelekile</string>
+    <string name="focus_mode_notifications_muted">Imodi Yokugxila: Izazimo zithulisiwe</string>
+    <string name="focus_mode_notifications_restored">Imodi Yokugxila: Izazimo zibuyiselwe</string>
+    <string name="focus_session_saved">Iseshoni yokugxila igcinwe emlandweni</string>
+    <string name="failed_to_save_session">Ihlulekile ukugcina iseshoni: %s</string>
+    <string name="times_up">Isikhathi siphelile!</string>
+    <string name="focus_time_remaining">Isikhathi Sokugxila Esisele</string>
+
+    <!-- Language Strings -->
+    <string name="language">Ulimi</string>
+    <string name="english">IsiNgisi</string>
+    <string name="zulu">IsiZulu</string>
+    <string name="afrikaans">IsiBhunu</string>
+    <string name="language_changed_success">Ulimi lushintshwe ngempumelelo</string>
+
+    <!-- Settings Activity Strings -->
+    <string name="settings">Izilungiselelo</string>
+    <string name="save">Londoloza</string>
+    <string name="profile">Iphrofayili</string>
+    <string name="edit_profile">Hlela iphrofayili</string>
+    <string name="app_settings">Izilungiselelo ze-app</string>
+    <string name="push_notifications">Izaziso</string>
+    <string name="dark_mode">Imodi emnyama</string>
+    <string name="auto_sync">Vumelanisa ngokuzenzakalelayo</string>
+    <string name="account">I-akhawunti</string>
+    <string name="change_password">Shintsha iphasiwedi</string>
+    <string name="privacy_policy">Inqubomgomo yobumfihlo</string>
+    <string name="terms_of_service">Imigomo yesevisi</string>
+    <string name="danger_zone">Indawo enobungozi</string>
+    <string name="clear_all_data">Sula lonke idatha</string>
+    <string name="delete_account">Sula i-akhawunti</string>
+    <string name="logout">Phuma</string>
+    <string name="visit_website">Vakashela iwebhusayithi</string>
+    <string name="close">Vala</string>
+    <string name="clear_data">Sula idatha</string>
+
+    <string name="default_web_client_id">128165556877-llk13lpf2ndhjrprs97lt2hgsaku62hm.apps.googleusercontent.com</string>
+</resources>

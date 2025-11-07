@@ -1,0 +1,60 @@
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name" translatable="false">SoloWork</string>
+    <string name="hello_world" translatable="false">Hello World!</string>
+
+    <!-- New strings for FocusModeActivity -->
+    <string name="minutes_format" translatable="false">%d min</string>
+    <string name="stop_timer_first" translatable="false">Stop the timer first to change duration</string>
+    <string name="set_timer_duration_first" translatable="false">Please set a timer duration first</string>
+    <string name="focus_session_active" translatable="false">Focus Session Active</string>
+    <string name="timer_paused" translatable="false">Timer Paused</string>
+    <string name="ready_to_focus" translatable="false">Ready to Focus</string>
+    <string name="focus_session_completed" translatable="false">Focus Session Completed!</string>
+    <string name="focus_session_completed_message" translatable="false">Focus session completed! Great job! 🎉</string>
+    <string name="pause" translatable="false">Pause</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="set_custom_focus_time" translatable="false">Set Custom Focus Time</string>
+    <string name="set" translatable="false">Set</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="please_enter_valid_time" translatable="false">Please enter a valid time</string>
+    <string name="focus_mode_notifications_muted" translatable="false">Focus Mode: Notifications muted</string>
+    <string name="focus_mode_notifications_restored" translatable="false">Focus Mode: Notifications restored</string>
+    <string name="focus_session_saved" translatable="false">Focus session saved to history</string>
+    <string name="failed_to_save_session" translatable="false">Failed to save session: %s</string>
+    <string name="times_up" translatable="false">Time\'s Up!</string>
+    <string name="focus_time_remaining" translatable="false">Focus Time Remaining</string>
+
+    <!-- Language Strings -->
+    <string name="language" translatable="false">Language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="zulu" translatable="false">isiZulu</string>
+    <string name="afrikaans" translatable="false">Afrikaans</string>
+    <string name="language_changed_success" translatable="false">Language changed successfully</string>
+
+    <!-- Settings Activity Strings -->
+    <string name="settings" translatable="false">Settings</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="edit_profile" translatable="false">Edit Profile</string>
+    <string name="app_settings" translatable="false">App Settings</string>
+    <string name="push_notifications" translatable="false">Push Notifications</string>
+    <string name="dark_mode" translatable="false">Dark Mode</string>
+    <string name="auto_sync" translatable="false">Auto Sync</string>
+    <string name="account" translatable="false">Account</string>
+    <string name="change_password" translatable="false">Change Password</string>
+    <string name="privacy_policy" translatable="false">Privacy Policy</string>
+    <string name="terms_of_service" translatable="false">Terms of Service</string>
+    <string name="danger_zone" translatable="false">Danger Zone</string>
+    <string name="clear_all_data" translatable="false">Clear All Data</string>
+    <string name="delete_account" translatable="false">Delete Account</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="visit_website" translatable="false">Visit Website</string>
+    <string name="close" translatable="false">Close</string>
+    <string name="clear_data" translatable="false">Clear Data</string>
+
+    <!-- Google Sign-In Strings -->
+    <string name="default_web_client_id" translatable="false">128165556877-llk13lpf2ndhjrprs97lt2hgsaku62hm.apps.googleusercontent.com</string>
+    <string name="google_web_client_id" translatable="false">128165556877-llk13lpf2ndhjrprs97lt2hgsaku62hm.apps.googleusercontent.com</string>
+    <string name="sign_in_with_google" translatable="false">Sign in with Google</string>
+</resources>

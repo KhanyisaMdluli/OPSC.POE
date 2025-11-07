@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App</string>
+    <string name="hello_world">Hallo Wêreld!</string>
+
+    <!-- New strings for FocusModeActivity -->
+    <string name="minutes_format">%d min</string>
+    <string name="stop_timer_first">Stop die timer eers om tydsduur te verander</string>
+    <string name="set_timer_duration_first">Stel asseblief eers \'n tydsduur in</string>
+    <string name="focus_session_active">Fokusessie Aktief</string>
+    <string name="timer_paused">Timer Gestop</string>
+    <string name="ready_to_focus">Gereed om te Fokus</string>
+    <string name="focus_session_completed">Fokusessie Voltooid!</string>
+    <string name="focus_session_completed_message">Fokusessie voltooid! Goeie werk! 🎉</string>
+    <string name="pause">Stop</string>
+    <string name="start">Begin</string>
+    <string name="set_custom_focus_time">Stel Aangepaste Fokustyd In</string>
+    <string name="set">Stel In</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="please_enter_valid_time">Voer asseblief \'n geldige tyd in</string>
+    <string name="focus_mode_notifications_muted">Fokusmodus: Kennisgewings stilgemaak</string>
+    <string name="focus_mode_notifications_restored">Fokusmodus: Kennisgewings herstel</string>
+    <string name="focus_session_saved">Fokusessie na geskiedenis gestoor</string>
+    <string name="failed_to_save_session">Misluk om sessie te stoor: %s</string>
+    <string name="times_up">Tyd verby!</string>
+    <string name="focus_time_remaining">Fokustyd Oor</string>
+
+    <!-- Language Strings -->
+    <string name="language">Taal</string>
+    <string name="english">Engels</string>
+    <string name="zulu">Zoeloe</string>
+    <string name="afrikaans">Afrikaans</string>
+    <string name="language_changed_success">Taal suksesvol verander</string>
+
+    <!-- Settings Activity Strings -->
+    <string name="settings">Instellings</string>
+    <string name="save">Stoor</string>
+    <string name="profile">Profiel</string>
+    <string name="edit_profile">Wysig profiel</string>
+    <string name="app_settings">App instellings</string>
+    <string name="push_notifications">Stootkennisgewings</string>
+    <string name="dark_mode">Donker modus</string>
+    <string name="auto_sync">Outo-sinkronisasie</string>
+    <string name="account">Rekening</string>
+    <string name="change_password">Verander wagwoord</string>
+    <string name="privacy_policy">Privaatheidsbeleid</string>
+    <string name="terms_of_service">Diensvoorwaardes</string>
+    <string name="danger_zone">Gevaarsone</string>
+    <string name="clear_all_data">Maak alle data skoon</string>
+    <string name="delete_account">Skrap rekening</string>
+    <string name="logout">Teken uit</string>
+    <string name="visit_website">Besoek webwerf</string>
+    <string name="close">Sluit</string>
+    <string name="clear_data">Maak data skoon</string>
+
+    <string name="default_web_client_id">128165556877-llk13lpf2ndhjrprs97lt2hgsaku62hm.apps.googleusercontent.com</string>
+</resources>
