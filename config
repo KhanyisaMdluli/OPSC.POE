@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/LefaSegona/SoloWork_1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = github
+	merge = refs/heads/main
+[remote "github"]
+	url = https://github.com/LefaSegona/SoloWork_1.git
+	fetch = +refs/heads/*:refs/remotes/github/*
